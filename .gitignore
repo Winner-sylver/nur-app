@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.xlsx
+*.xls
+_*.txt
+incidents_aout_raw.txt
+*.pptx
+_s37_media/
+_s37_ip_media/
+.streamlit/secrets.toml
